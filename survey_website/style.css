@@ -2,7 +2,7 @@ body {
     background-color: #FFF;
     margin: 0 auto;
   }
-  
+
   header {
     background-color: #466995;
     border-bottom: 1px solid #466995;
@@ -10,13 +10,13 @@ body {
     width: 100%;
     z-index: 10;
   }
-  
+
   ul {
     margin: 30px auto;
     padding: 0 20px;
     text-align: center;
   }
-  
+
   li {
     color: #FFF;
     font-family: 'Oswald', sans-serif;
@@ -26,11 +26,11 @@ body {
     display: inline-block;
     width: 80px;
   }
-  
+
   li:hover {
     color: #DBE9EE;
   }
-  
+
   h1 {
     color: #466995;
     font-family: 'Oswald', sans-serif;
@@ -38,7 +38,7 @@ body {
     font-weight: 300;
     text-transform: uppercase;
   }
-  
+
   h2 {
     color: #333;
     font-family: 'Varela Round', sans-serif;
@@ -46,7 +46,7 @@ body {
     font-weight: 100;
     margin: 0 auto 20px auto;
   }
-  
+
   h3 {
     color: #466995;
     font-family: 'Oswald', sans-serif;
@@ -56,7 +56,7 @@ body {
     text-transform: uppercase;
     padding: 30px;
   }
-  
+
   h4 {
     color: #466995;
     font-family: 'Oswald', sans-serif;
@@ -66,19 +66,19 @@ body {
     text-align: center;
     text-transform: uppercase
   }
-  
+
   p {
     color: #333;
     font-family: 'Varela Round', sans-serif;
     font-size: 18px;
   }
-  
+
   footer {
     background-color: #DBE9EE;
     text-align: center;
     height: 100px;
   }
-  
+
   .welcome {
     background-color: #DBE9EE;
     box-sizing: border-box;
@@ -88,13 +88,13 @@ body {
     position: relative;
     top: 50px;
   }
-  
+
   .question {
     text-align: center;
     position: relative;
     top: 40px;
   }
-  
+
   .answer {
     border: 1px solid #466995;
     margin: 20px;
@@ -102,7 +102,7 @@ body {
     height: 150px;
     width: 200px;
   }
-  
+
   .answer:hover {
     background: #C0D6DF;
     color: #FFF;
